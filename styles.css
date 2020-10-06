@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    text-decoration: none;
+}
+body{
+    background-color: #000000;
+}
+.container {
+    background-color: #ffffff;
+    max-width: 400px;
+    margin: 50px auto;
+    width: 100%;
+    padding: 15px;
+}
+.box {
+    border: 1px solid black;
+    padding: 12px;
+}
+.box1{
+    margin-bottom: 10px;
+}
+.topic{
+    padding-bottom: 10px;
+}
+.pics{
+width: 375px;
+}
+.writeUp{
+    border: 1px solid black;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.intro{
+    font-style: italic;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.last{
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
